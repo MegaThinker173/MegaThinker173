@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MegaThinker173
 - 👀 I’m interested in programming and building artificial intelligence, and coding anything that comes to mind.
-- 🌱 I’m currently learning Python, Java, HTML, and CSS.
+- 🌱 I’m currently learning Python, Java, C++, HTML, and CSS, and JS.
 - 💞️ I’m looking to collaborate on anything programming-related.
 - 📫 How to reach me: prestonjbadger22@gmail.com
 
